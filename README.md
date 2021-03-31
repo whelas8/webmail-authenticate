@@ -1,2 +1,0 @@
-# webmail-authenticate
-web-auth
